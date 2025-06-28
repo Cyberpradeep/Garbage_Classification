@@ -1,3 +1,12 @@
+# Week 2 Update
+    -> retrained model with more train dataset to predict the correct output
+    -> use array images to predict the output
+    -> after retrained the model the accuaracy increase from 0.6 to 0.8 
+
+
+
+
+
 # 🗑️ Garbage Classification using Convolutional Neural Networks (CNN)
 
 This project uses a Convolutional Neural Network (CNN) model to classify garbage images into categories such as cardboard, glass, metal, paper, plastic, and trash. The model is trained on a publicly available dataset and can be deployed in smart bins or recycling systems.
